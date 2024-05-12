@@ -28,7 +28,7 @@ In this game, you'll play against the computer dealer. The goal is to get as clo
 
 ## Screenshots
 
-![Gameplay screenshot](screenshots/gameplay.png)
+![Gameplay screenshot](https://bumbitzu.ro/images/screenshots/blackjackgame.PNG)
 
 ## Contribution
 
